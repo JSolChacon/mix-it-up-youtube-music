@@ -1,0 +1,11 @@
+﻿pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+streamlit>=1.50
+altair>=5.0
+jupyter
+# only needed to rebuild the notebook / code images
+nbformat
+nbclient
+pygments
